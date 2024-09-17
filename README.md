@@ -18,3 +18,4 @@ Tive alguns problemas ao seguir os passos do instrutor e tive que alterar alguma
 
 7-por mais que eu tenha importado corretamente a privatekey no electrum, ele não exibiu as trasações que recebi de faucets, transações confirmadas no site blockstream.info
 
+8-tive que alterar o formato do arquivo para mjs
